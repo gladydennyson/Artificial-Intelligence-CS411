@@ -1,0 +1,7 @@
+size : 5,4
+walls : 2,2  2,3
+terminal_states : 5,3,-3  5,4,+2  4,2,+1
+reward : -0.04
+transition_probabilities : 0.8,0.1,0.1,0
+discount_rate : 0.85
+epsilon : 0.001
